@@ -1,0 +1,13 @@
+
+
+
+config
+configuration_manager
+controller_schemes
+gamepad
+input_classes
+json_classes
+recordings
+.gitignore
+README.md
+main.py
